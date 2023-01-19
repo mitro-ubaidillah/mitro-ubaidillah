@@ -1,4 +1,4 @@
-<!-- ![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png) -->
+![Banner Image](https://github.com/mitro-ubaidillah/mitro-ubaidillah/blob/e168f24c6dadb5eb48d8e320231344f9c420c6af/Banner.png)
 
 ## Hi there 👋
 
