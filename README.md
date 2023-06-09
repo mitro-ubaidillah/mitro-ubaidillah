@@ -12,7 +12,7 @@ Vist my **[Personal Website](https://mitro-ubaidillah.vercel.app/)**
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
+- 🔭 I’m currently working as **Jr. Frontend Developer @ Interaktiv**
 - 🌱 I’m currently learning **Typescript - React Native**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for a position as a Front-End Web Developer, but does not rule out the possibility of a position in Android Developers
